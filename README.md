@@ -1,14 +1,4 @@
-Click on the file named README.md in your HOMEWORK repo that you created in class this week.
 
-Delete all of the text currently populating the page.
-
-This is a Markdown Language file. In it:
-
-Write your name in a large font
-
-Write a subheading about you in a smaller font
-
-Create a list that explains your goals for this course
 
 # Malik Ellis
 >## _On The Road to Greatness_
