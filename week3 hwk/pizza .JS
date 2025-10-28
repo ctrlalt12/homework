@@ -1,39 +1,33 @@
 const pizzaToppings=["sausage", "bacon", "ham", "pineapple"]
-const greetCustomer ="Howdie!"
-for(let i = pizzaToppings.length - 1; >= i++)
-console.log(${greetcustomer}`Welcome to Big Papas pizza`, `Where we offer ${pizzaToppings} and more.`)
+let greeting ="Howdie! Welcome to Big Papa's Pizza. We offer"
+for(let i =0; pizzaToppings.length; i++) {
+  greeting += `${pizzaToppings [i]}`;
+console.log(${greeting}`Welcome to Big Papas pizza`, `Where we offer ${pizzaToppings} and more.`)
 
 
-const getPizzaOrder = "big papa"
+getPizzaOrder = 12 , ("thick crust" , "infinite toppings");{
 let size =12`inch`
 let crust ="stuffed"
-pizzaToppings=[3]
+pizzaToppings = "infinite toppings"
 console.log(`your ${getPizzaOrder}, ${size}, ${crust} ,with ${pizzaToppings} is coming up !`)
 
 
 
 
- const preparePizza = `Big Papa Pizza`
- toppings: `sausage, ham ,spinach,green peppers, hot honey`
- crust: `stuffed`
- size: 16
- cooking: true;
-greeting : `we are cooking pizza`
-
-console.log(preparePizza.greeting);
- console.log(preparePizza);
- console.log(preparePizza.toppings);
-console.log(preparePizza.crust);
-console.log(preparePizza.size);
-console.log(preparePizza.cooking)
-
-const servePizza = `country style !`
-size : `Large`
-crust: `thin`
-topping:[`ham , pineapple , green onion`]
-serve: true
+ function preparePizza ([orderSize, orderCrust, ordercrazyToppings]) {
+  console.log("Cooking pizza !") }
 
 
-servePizza: `country style`
-console.log(`Order up here is your ${preparePizza}, ${size} ,with  ${toppings} Enjoy !`)
-return(${preparePizza} serve: `delivered`) ;
+  return {
+size: orderSize
+crust: orderCrust
+toppings: crazyToppings
+
+
+servePizza(pizza) ;
+let orderReady = `order up ! Heres your ${pizza.size} ${pizza.crust} crust pizza ` ;
+
+for(let toppings of toppings) {
+  orderReady += `${toppings}`
+console.log(`${orderReady. Enjoy}`)
+return pizza
