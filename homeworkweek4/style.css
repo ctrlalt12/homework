@@ -1,24 +1,40 @@
 
 body {
     margin: 50px;
-    padding:100px;
+    padding: 56px;
     background-color: gold;
-    color: #fff;
+    color: purple
+    ;
 }
 
 
-.navbar {
-    background-color: black;
-    padding: 10px 20px;
+h1~p{
+color: black
+;
+}
+h2~p{
+    color: black;
+}
+h3~p{
+    color: white;
+}
+h4~p{
+    color: green;
 }
 
-logo {
-    color: gold;
-
-    font-size: 2.5em;
-
-    margin: 20px;
+.div1 {
+padding-top: 5px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 10px;
 }
+.div2{
+padding: 5px 10px 5px 10px;
+}
+.div3 {
+padding: 5px 10px;
+}
+
 
 
 h1 {
@@ -30,11 +46,13 @@ h1 {
 }
 
 
-.nav-links {
-    list-style: none;
-    padding: 100px;
-    margin:50px;
-    display: flex;
-}
 
+
+
+
+
+#forwardThinking {
+  color: purple;
+  background: black;
+}
 
